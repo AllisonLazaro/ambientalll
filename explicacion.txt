@@ -1,0 +1,30 @@
+Nombre del Proyecto: Bot de Discord y Página Web de Conciencia Ambiental
+
+Descripción:
+Este proyecto consiste en un bot de Discord y una página web diseñados para promover la conciencia ambiental.
+
+=====================================
+Funcionalidades del Bot:
+
+Nombre del bot: Environmental pollution
+Responde a comandos específicos, como #web, proporcionando enlaces a recursos educativos sobre el medio ambiente. (Es la pagina web que cree)
+Reacciona automáticamente a sus propios mensajes para una experiencia más interactiva.
+Diseñado para ser fácil de usar en cualquier servidor de Discord, con un enfoque en la educación ambiental. (puede ver el codigo del bot en este mismo repositorio pero el token se cambio por que discord me lo cambiaba para evitar conflictos)
+
+=====================================
+Página Web:
+
+Accesible a través de un enlace proporcionado por el bot. (https://allisonlazaro.github.io/ambientalll/#causas)
+Presenta información clara y concisa sobre los problemas ambientales y cómo podemos contribuir a solucionarlos.
+Diseño simple y efectivo, centrado en la experiencia del usuario.
+
+=====================================
+Objetivo del Proyecto:
+Concienciar a los usuarios sobre la importancia del cuidado del medio ambiente, fomentando pequeñas acciones que generen un gran impacto a largo plazo.
+
+=====================================
+Tecnologías Utilizadas:
+
+Python: Para el desarrollo del bot utilizando la librería discord.py.
+HTML: Para la creación de la página web.
+=====================================
